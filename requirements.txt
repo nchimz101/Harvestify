@@ -81,14 +81,14 @@ terminado==0.9.1
 testpath==0.4.4
 threadpoolctl==2.1.0
 toml==0.10.2
-torch==1.7.0+cpu
+torch==2.9.0+cpu
 torchaudio==0.7.0
 torchvision==0.8.1+cpu
 tornado==6.1
 traitlets==5.0.5
 txt2tags==3.7
 typing-extensions==3.7.4.3
-urllib3==1.26.2
+urllib3==2.6.3
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
